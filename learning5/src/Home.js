@@ -10,7 +10,7 @@ const Home = () => {
       <Header/>
       <Table/>
       <Filter/>
-      <Card/>
+      {/* <Card/> */}
     </div>
   )
 }

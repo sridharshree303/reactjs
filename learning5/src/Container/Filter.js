@@ -8,7 +8,7 @@ const Filter = ({filter_name,setfilter,resetfilter}) => {
     <div>
       <center className='mt-3'>
           <span className='h4 m-2'>Filter</span>
-          <select name="filter" className= 'p-1' onChange={(e)=>setfilter(e.target.value)}>
+          <select name="filter" className='p-1' onChange={(e)=>setfilter(e.target.value)}>
             {prod.map((item,index)=>(
                 <option value={item} key={index}>{item}</option>
             ))}

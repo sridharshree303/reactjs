@@ -2,7 +2,7 @@ import React from 'react';
 import {connect} from 'react-redux';
 import { addorder, resetfilter, resettablenumber } from '../Actions/actions';
 
-const Card = ({filter_name,addorder,table_number}) => {
+const Card = ({filter_name,addorder,table_number,resetfilter,resettablenumber}) => {
   const [data,setData] = React.useState([])
   const [cloneData,setCloneData] = React.useState([]);
   React.useEffect(()=>{
@@ -12,7 +12,7 @@ const Card = ({filter_name,addorder,table_number}) => {
           json => {
             setData(json.items);
             setCloneData(json.items);
-          })
+        })
   },[])
 
   React.useEffect(()=>{
@@ -71,4 +71,4 @@ const mapStateToProps = state =>({
   table_number : state.tablereducer.table_number
 })
 
-export default connect(mapStateToProps,{addorder})(Card);
+export default connect(mapStateToProps,{addorder,resettablenumber,resetfilter})(Card);

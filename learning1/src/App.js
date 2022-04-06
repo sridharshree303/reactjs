@@ -1,45 +1,23 @@
-import React,{useState} from 'react';
+import React from 'react'
+import Calculator from './components/Calculator'
+import Register from './components/Register'
+import SearchApp from './components/SearchApp'
+import UseMemoDemo from './components/UseMemoDemo'
+import UseReducerDemo from './components/UseReducerDemo'
 
-const App = () =>{
-  const [data,setData] = useState({                        //useEffect and firebase DB with postData
-    name:'',
-    age:''
-  })
-
-  const changeHandler = (e) =>{
-    setData({...data,[e.target.name]:e.target.value});
-  }
-
-  const submitHandler = (e) =>{
-    e.preventDefault();
-    fetch('https://test-api-5994e-default-rtdb.firebaseio.com/data.json',
-    {
-      method :'POST',
-      body:JSON.stringify(data),
-      headers:{
-        "Content-Type":"application/json;charset=UTF-8"
-      }
-    }
-    ).then(res => alert('Data Posted')).catch(err=>console.log(err))
-  }
-
-  return(
+const App = () => {
+  return (
     <div>
-        <center>
-          <form onSubmit={submitHandler}>
-            <label>Name</label><br/>
-            <input type="text" name="name" onChange={changeHandler}/><br/>
-            <label>Age</label><br/>
-            <input type="text" name="age" onChange={changeHandler} /><br/>
-            <input type="submit" value="Post Data" />
-          </form>
-        </center>
+      <UseMemoDemo/><hr/>
+      <UseReducerDemo/><hr/>
+      <SearchApp/><hr/>
+      <Calculator/>
+      <Register/>
     </div>
   )
 }
 
-export default App;
-
+export default App
 
 //-------------------------------------------------------------------------------------------
 

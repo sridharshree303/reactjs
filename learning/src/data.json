@@ -1,0 +1,165 @@
+{
+  "items" : [ {
+    "category" : "Pizza",
+    "id" : "jsjhsjreiuuueurmnnrblde",
+    "name" : "MARGHERITA",
+    "price" : 300,
+    "url" : "https://www.dominos.co.in/files/items/Margherit.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "lskjhsrbhyuriusijjdijsje",
+    "name" : "DOUBLE CHEESE MARGHERITA",
+    "price" : 450,
+    "url" : "https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "juurdsncjsklljkdfjhdshd",
+    "name" : "FARM HOUSE",
+    "price" : 360,
+    "url" : "https://www.dominos.co.in/files/items/Farmhouse.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "ksgjdmskekkdljsjeionxd4",
+    "name" : "PEPPY PANEER",
+    "price" : 390,
+    "url" : "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "wemndkslknsnjjndnsjjcjn",
+    "name" : "MEXICAN GREEN WAVE",
+    "price" : 470,
+    "url" : "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "jjjdkjkdiwejiienrinfbjb",
+    "name" : "DELUXE VEGGIE",
+    "price" : 440,
+    "url" : "https://www.dominos.co.in/files/items/Deluxe_Veggie.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "jsuurnkjkkjnmxfsklsehdds",
+    "name" : "VEG EXTRAVAGANZA",
+    "price" : 320,
+    "url" : "https://www.dominos.co.in/files/items/Veg_Extravaganz.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "errdkskjkjslaqoendeekdk8",
+    "name" : "CHEESE N CORN",
+    "price" : 280,
+    "url" : "https://www.dominos.co.in/files/items/Corn_&_Cheese.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "hskjsliueopanxcsvgalkeis",
+    "name" : "PANEER MAKHANI",
+    "price" : 360,
+    "url" : "https://www.dominos.co.in/files/items/Paneer_Makhni.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "lwueonsjmsknnskkjd48mnsd",
+    "name" : "VEGGIE PARADISE",
+    "price" : 370,
+    "url" : "https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "ksjsdkue7eijw84nalkasawq",
+    "name" : "FRESH VEGGIE",
+    "price" : 240,
+    "url" : "https://www.dominos.co.in/files/items/Fresh_Veggie.jpg"
+  }, {
+    "category" : "Pizza",
+    "id" : "djjiriwaaqiwortuwscxvams",
+    "name" : "INDI TANDOORI PANEER",
+    "price" : 440,
+    "url" : "https://www.dominos.co.in/files/items/IndianTandooriPaneer.jpg"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "ksjrkjssnnncsdkkndknksn",
+    "name" : "PEPPER BARBECUE CHICKEN",
+    "price" : 480,
+    "url" : "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "skakdjwkjskdkkjrulkjdrie",
+    "name" : "CHICKEN SAUSAGE",
+    "price" : 540,
+    "url" : "https://www.dominos.co.in/files/items/Chicken_Sausage.jpg"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "wjhrjscjnsdjsjmzbcnvskf",
+    "name" : "CHICKEN GOLDEN DELIGHT",
+    "price" : 430,
+    "url" : "https://www.dominos.co.in/files/items/Chicken_Golden_Delight.jpg"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "qiwuecsmclkdyrazxldirde2",
+    "name" : "NON VEG SUPREME",
+    "price" : 410,
+    "url" : "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "xskdhaiwyridnclaowdfkip3",
+    "name" : "CHICKEN DOMINATOR",
+    "price" : 530,
+    "url" : "https://www.dominos.co.in/files/items/Dominator.jpg"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "kalieudmcbvpqpwiefndm34x",
+    "name" : "PEPPER BARBECUE & ONION",
+    "price" : 570,
+    "url" : "https://www.dominos.co.in/files/items/Pepper_Barbeque_&_Onion.jpg"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "qieuhdnajsdnxhdajskjd3j",
+    "name" : "CHICKEN FIESTA",
+    "price" : 490,
+    "url" : "https://www.dominos.co.in/files/items/chunky-chicken.png"
+  }, {
+    "category" : "Non-veg Pizza",
+    "id" : "jqweokpnkjdkwirhhruowio",
+    "name" : "INDI CHICKEN TIKKA",
+    "price" : 480,
+    "url" : "https://www.dominos.co.in/files/items/IndianChickenTikka.jpg"
+  }, {
+    "category" : "Pizza Mania",
+    "id" : "ksk3sjd8jsnienwoijinwjdh",
+    "name" : "TOMATO",
+    "price" : 240,
+    "url" : "https://www.dominos.co.in/files/items/pizza_mania_tomato.png"
+  }, {
+    "category" : "Pizza Mania",
+    "id" : "kskdjdkj763sjdkj38edsxce",
+    "name" : "VEG LOADED",
+    "price" : 280,
+    "url" : "https://www.dominos.co.in/files/items/PrimeLoadedL.jpg"
+  }, {
+    "category" : "Pizza Mania",
+    "id" : "k3kjdjn7sjdjsjen8ndb7jdn",
+    "name" : "CHEESY",
+    "price" : 320,
+    "url" : "https://www.dominos.co.in/files/items/PrimeCheesyL.jpg"
+  }, {
+    "category" : "Pizza Mania",
+    "id" : "k3kdjsjdjrifncktidjkle2u",
+    "name" : "CAPSICUM",
+    "price" : 260,
+    "url" : "https://www.dominos.co.in/files/items/CapsicumVeg.jpg"
+  }, {
+    "category" : "Pizza Mania",
+    "id" : "ksjrhej5jj58ndkwomd39dnq",
+    "name" : "GOLDEN CORN",
+    "price" : 630,
+    "url" : "https://www.dominos.co.in/files/items/golden_corn_veg.jpg"
+  }, {
+    "category" : "Pizza Mania",
+    "id" : "sirjfkskkjro3wiiwcndkrr4",
+    "name" : "CHEESE N TOMATO",
+    "price" : 340,
+    "url" : "https://www.dominos.co.in/files/items/cheese_and_tomato.png"
+  }, {
+    "category" : "Pizza Mania",
+    "id" : "lskjeidmsdjdjjeioskmwmsk",
+    "name" : "PANEER & ONION",
+    "price" : 270,
+    "url" : "https://www.dominos.co.in/files/items/Paneer_Special.jpg"
+  } ]
+}
