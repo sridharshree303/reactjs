@@ -22,4 +22,4 @@ const SearchApp = () => {
   )
 }
 
-export default SearchApp
+export default SearchApp;
